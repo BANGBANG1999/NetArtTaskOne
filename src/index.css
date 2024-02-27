@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    overflow-x: hidden;
+    background: linear-gradient(to top, #FFF9B5, #FFFFFB);
+    
+}
